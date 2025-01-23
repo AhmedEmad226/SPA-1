@@ -1,0 +1,47 @@
+
+.mainNavbar{
+    background-color: rgb(43, 61, 79) !important;
+    padding: 30px 100px;
+}
+
+.navText{
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+    background-color: transparent;
+    border-radius: 10px;
+}
+
+.navTextFocus{
+    background-color: rgb(26, 189, 156) !important;
+    border-radius: 10px;
+    color: white !important;
+}
+
+.logo{
+    font-size: xx-large;
+    color: white;
+    font-weight: 700;
+}
+
+.collapse.navber-collapse{
+    justify-content: end;
+}
+
+.before{
+    width: 100px;
+    height: 5px;
+    background-color: white;
+    position: absolute;
+    top: 15px;
+    right: 45px;
+}
+
+.after{
+    width: 100px;
+    height: 5px;
+    background-color: white;
+    position: absolute;
+    top: 15px;
+    left: 45px;
+}

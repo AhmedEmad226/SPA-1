@@ -1,0 +1,26 @@
+.bgGreen{
+    background-color: rgb(26, 189, 156);
+    color: white;
+}
+
+.star{
+    position: relative;
+    font-size: 30px;
+}
+
+.after{
+    width: 30px;
+    height: 3px;
+    background-color: white;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.before{
+    width: 30px;
+    height: 3px;
+    background-color: white;
+    position: absolute;
+    top: 0;
+    right: 0;
+}

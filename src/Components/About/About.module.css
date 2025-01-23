@@ -1,0 +1,20 @@
+.bgGreen{
+    background-color: rgb(26, 189, 156);
+    color: white;
+}
+
+.line {
+    background-color: white;
+    width: 170px;
+    height: 5px;
+    position: absolute;
+    top: 10px;
+}
+
+.right{
+    right: 10px;
+}
+
+.left{
+    left: 10px;
+}
